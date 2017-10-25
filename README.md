@@ -6,3 +6,5 @@ Images were provided by De Montfort University and are in no means used for comm
 This project was created only for educational purposes whilst I was studying at De Montfort University, 2nd Year.
 
 Requires Visual Studio 2012 to compile.
+
+In collaboration with marcin388 and JM-Ski.
